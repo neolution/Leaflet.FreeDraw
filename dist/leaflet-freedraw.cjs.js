@@ -1,3 +1,5 @@
+let regeneratorRuntime = require("regenerator-runtime");
+
 module.exports =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
